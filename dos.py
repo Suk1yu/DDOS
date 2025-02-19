@@ -1,5 +1,5 @@
 import socket, threading, os, sys, random, ctypes, time
-from colorama import init, Fore, Back, Style 
+from colorama import init, Fore, Back, Style import colorama
 
 delay=20
 psc=5000
